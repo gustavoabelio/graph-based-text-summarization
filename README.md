@@ -6,8 +6,8 @@ The project demonstrates how Graph Theory can be applied to Natural Language Pro
 
 TextRank models a document as a weighted graph in which sentences become vertices and semantic similarities become weighted edges. It then applies the PageRank algorithm to rank sentence importance, selecting the most relevant ones to compose the final summary. Unlike approaches based on LLMs or Generative AI, this method relies entirely on Graph Theory and statistical text analysis.
 
-> This project was developed for an academic course.  
-> The source code is written in Portuguese.
+> Developed as part of the *Graph Theory and Applications* course at UNESP.  
+> The source code is intentionally kept in Portuguese to preserve the original academic submission.
 
 ---
 
